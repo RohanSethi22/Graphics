@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525152869 source:d:\rohan\college\sem_4\cec12-graphics\hindi1583\main.cpp
+	<graphics.h>
+	<process.h>
+	<dos.h>
+	<conio.h>
+	<math.h>
+	<iostream>
+

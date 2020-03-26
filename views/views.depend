@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524566295 source:d:\rohan\college\sem_4\cec12-graphics\views\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+
+1524052146 source:f:\views\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+

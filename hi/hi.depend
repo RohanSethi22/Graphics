@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524656903 source:d:\rohan\college\sem_4\cec12-graphics\hi\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+

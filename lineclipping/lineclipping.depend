@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521293018 source:d:\rohan\college\sem_4\cec12-graphics\lineclipping\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1516464048 source:c:\users\rajan sethi\desktop\graphs\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+
+1516796387 source:d:\rohan\college\sem_4\cec12-graphics\graphs\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+	"Solar.h"
+	"Flag.h"
+	"YinYang.h"
+	"CoinToss.h"
+
+1516791600 source:d:\rohan\college\sem_4\cec12-graphics\graphs\yinyang.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+
+1516791647 source:d:\rohan\college\sem_4\cec12-graphics\graphs\flag.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+
+1516791782 d:\rohan\college\sem_4\cec12-graphics\graphs\solar.h
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+
+1516792499 d:\rohan\college\sem_4\cec12-graphics\graphs\flag.h
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+
+1516795391 d:\rohan\college\sem_4\cec12-graphics\graphs\yinyang.h
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+
+1516796468 d:\rohan\college\sem_4\cec12-graphics\graphs\cointoss.h
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524582494 source:d:\rohan\college\sem_4\cec12-graphics\linemidpoint\main.cpp
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<stdio.h>
+	<iostream>
+

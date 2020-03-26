@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524560119 source:d:\rohan\college\sem_4\cec12-graphics\ellipsemid\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<conio.h>
+

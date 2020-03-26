@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524564353 source:d:\rohan\college\sem_4\cec12-graphics\curv\main.cpp
+	<graphics.h>
+	<process.h>
+	<dos.h>
+	<conio.h>
+	<math.h>
+	<iostream>
+

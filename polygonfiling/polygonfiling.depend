@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521624439 source:d:\rohan\college\sem_4\cec12-graphics\polygonfiling\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+
